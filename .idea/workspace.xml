@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5679199f-b46d-4256-919b-0bff905a6f60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests6/addresbook-web-tests/.idea/libraries/Gradle__com_thoughtworks_xstream_xstream_1_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests6/addresbook-web-tests/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests6/addresbook-web-tests/.idea/libraries/Gradle__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests6/addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/generators/GroupDataGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests6/addresbook-web-tests/src/test/resources/testng-groups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_jboss_jandex_2_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../addresbook-web-tests/addresbook-web-tests7/addresbook-web-tests/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/abstract_factory/Protototype/Prototype2/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/abstract_factory/Protototype/example1/Copyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/abstract_factory/Protototype/example1/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/abstract_factory/Protototype/example1/HumanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/abstract_factory/Protototype/example1/PrototypeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/abstract_factory/factories/MacOSFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/builder1/example1/builder/Builder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/builder1/example1/cars/Type1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/builder1/example1/components/Engine1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/builder1/example2/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/builder1/example4/BuilderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/builder1/example4/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/ElonMusk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/Falcon9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/SpaceX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/created/factory_method/example1/TesloRoadster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/structure_patterns/adapter/RasterGraphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hotel-reservatins/src/main/java/com/frankmoley/refactoring/structure_patterns/adapter/VectorGraphicsInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__cglib_cglib_nodep_3_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__com_codeborne_phantomjsdriver_1_4_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_0_18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__com_google_guava_guava_23_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__commons_codec_commons_codec_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__commons_io_commons_io_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__net_java_dev_jna_jna_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__net_java_dev_jna_jna_platform_4_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__net_sourceforge_cssparser_cssparser_0_9_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_2_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__net_sourceforge_htmlunit_htmlunit_core_js_2_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__net_sourceforge_htmlunit_neko_htmlunit_2_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_apache_commons_commons_exec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_apache_httpcomponents_httpmime_4_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_jetty_client_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_4_5_v20170502.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_htmlunit_driver_2_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_api_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_chrome_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_edge_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_firefox_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_ie_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_java_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_opera_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_remote_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_safari_driver_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_seleniumhq_selenium_selenium_support_3_5_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__org_w3c_css_sac_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__xalan_serializer_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__xalan_xalan_2_7_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__xerces_xercesImpl_2_11_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/libraries/Gradle__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/ApplicationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/ContactHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/GroupHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/HelperBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/NavigationHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/appmanager/SessionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/model/ContactData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/model/GroupData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/ContactCreationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/ContactModificationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/GroupCreationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/GroupDeletionTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/GroupModificationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addresbook-web-tests/src/test/java/ru/stqa/pft/addressbook/tests/TestBase.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/book-flight-module.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/healthcheck.sh">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/search-module.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/PageFactory.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selenium-docker</find>
+      <find>@Parameter(names = &quot;-c&quot;, description = &quot;Group count&quot;)</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seleniumdocker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium-docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="C:/appiumAutomation/androidSDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565589541580" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/selenium-docker" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\PROGRAMMING\CODE\java_code\sendbox\udemy-docker\selenium-docker" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\PROGRAMMING\CODE\java_code\sendbox\udemy-docker\selenium-docker" />
+      <recent name="B:\PROGRAMMING\CODE\java_code\sendbox\udemy-docker\selenium-docker\src\main\java" />
+      <recent name="B:\PROGRAMMING\CODE\java_code\sendbox\udemy-docker\selenium-docker\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5679199f-b46d-4256-919b-0bff905a6f60" name="Default Changelist" comment="" />
+      <created>1565586145894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565586145894</updated>
+      <workItem from="1565586151735" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1725000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1380597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Regex Tester" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="773">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Jenkinsfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/searchmodule/tests/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tests/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/newtours/tests/BookFlightTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightDetailsPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/searchmodule/pages/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/RegistrationConfirmationPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FindFlightPage.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/PageFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/newtours/pages/FlightConfirmationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book-flight-module.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/healthcheck.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search-module.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
